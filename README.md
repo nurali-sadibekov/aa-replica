@@ -1,2 +1,3 @@
 # aa-replica
-aa Replica (mobile game)
+Replica of aa game (mobile)
+Done by watching tutorials on YouTube (Brackeys, thank U!)
